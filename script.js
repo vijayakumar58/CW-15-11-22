@@ -1,4 +1,5 @@
 
+
      f1 =()=>{
         console.log("10")
         f2=()=>{
@@ -40,6 +41,7 @@
             }
            f3(); 
         }
-        f2();
+       
     }
-    f1();
+    
+    const independent= setTimeout(f1,1000);
