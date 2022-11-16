@@ -23,9 +23,9 @@
                                              f11=()=>{
                                                 console.log("independent day")
                                             }
-                                            f11();
+                                          //   f11();
                                         }
-                                        f10();
+                                       //  f10();
                                     }
                                    f9();
                                 }
@@ -52,6 +52,6 @@
     // const independent6= setTimeout(f6,6000);
     // const independent7= setTimeout(f7,7000);
     // const independent8= setTimeout(f8,8000);
-    // const independent9= setTimeout(f9,9000);
-    // const independent10= setTimeout(f10,10000);
+    const independent9= setTimeout(f9,9000);
+    const independent10= setTimeout(f10,10000);
     const independent11= setTimeout(f11,11000);
